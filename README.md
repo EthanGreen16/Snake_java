@@ -22,3 +22,4 @@ A classic Snake game built with Java Swing. Control the snake to eat apples, gro
 3. Run the batch file:
    ```bash
    ./run.bat
+4. To close the game you can press the X in the top right corner or hit escape!
