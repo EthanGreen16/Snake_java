@@ -1,4 +1,4 @@
-package beginner;
+package snake;
 
 import javax.swing.JFrame;
 

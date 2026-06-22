@@ -1,5 +1,5 @@
 cls
-cd beginner
+cd snake
 javac *.java
 cd ..
-java beginner.Snake
+java snake.Snake
